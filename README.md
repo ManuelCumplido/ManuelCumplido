@@ -36,6 +36,6 @@ Passionate about building scalable cloud-native solutions using **AWS Lambda, AP
 ---
 
 ## 📫 Connect with Me
-- 🌐 [LinkedIn](www.linkedin.com/in/manuel-cumplido)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/manuel-cumplido)
 - 📧 manuelcumplido.9@gmail.com  
 
