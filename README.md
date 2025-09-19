@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**ManuelCumplido/ManuelCumplido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Manuel Cumplido
 
-Here are some ideas to get you started:
+🚀 **Cloud Developer | AWS Serverless Specialist**  
+Passionate about building scalable cloud-native solutions using **AWS Lambda, API Gateway, DynamoDB, and IoT Core**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+- 💼 Currently working as a cloud developer, building IoT solutions..  
+- ☁️ Experienced in **serverless architectures, microservices, and CI/CD pipelines with GitHub Actions**.  
+- 📚 Preparing for advanced **AWS certifications**.  
+- 🔍 Focused on performance, cost-optimization, and cloud security.  
+
+---
+
+## ⚡ Skills
+- **Languages:** JavaScript (Node.js), SQL  
+- **AWS Services:** Lambda, API Gateway (REST & WebSocket), DynamoDB, RDS (PostgreSQL), IoT Core, SQS/SNS, IAM, SAM (IaC)  
+- **Infra & DevOps:** GitHub Actions, Docker (basic), CI/CD  
+- **Other:** WebSockets, MQTT, QuickSight  
+
+---
+
+## 📂 Featured Projects
+- [**AWS Serverless Portfolio**](https://github.com/ManuelCumplido/aws-serverless-portfolio) → End-to-end serverless infrastructure using AWS SAM.  
+- Upcoming: *IoT Device Simulator* and *Serverless CI/CD Demo*.  
+
+---
+
+## 📫 Connect with Me
+- 🌐 [LinkedIn](www.linkedin.com/in/manuel-cumplido)  
+- 📧 manuelcumplido.9@gmail.com  
+
