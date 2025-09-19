@@ -14,6 +14,13 @@ Passionate about building scalable cloud-native solutions using **AWS Lambda, AP
 
 ---
 
+## 🎓 Certifications
+- ✅ AWS Certified Cloud Practitioner  
+- ✅ AWS Certified Solutions Architect – Associate  
+- 🎯 In progress: AWS Certified Developer – Associate  
+
+---
+
 ## ⚡ Skills
 - **Languages:** JavaScript (Node.js), SQL  
 - **AWS Services:** Lambda, API Gateway (REST & WebSocket), DynamoDB, RDS (PostgreSQL), IoT Core, SQS/SNS, IAM, SAM (IaC)  
