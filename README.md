@@ -2,12 +2,12 @@
 # 👋 Hi, I'm Manuel Cumplido
 
 🚀 **Cloud Developer | AWS Serverless Specialist**  
-Passionate about building scalable cloud-native solutions using **AWS Lambda, API Gateway, DynamoDB, and IoT Core**.  
+Designing and delivering serverless solutions powered by AWS Lambda, API Gateway, DynamoDB, and IoT Core.
 
 ---
 
 ## 🧑‍💻 About Me
-- 💼 Currently working as a cloud developer, building IoT solutions..  
+- 💼 Currently working as a cloud developer, building IoT solutions.  
 - ☁️ Experienced in **serverless architectures, microservices, and CI/CD pipelines with GitHub Actions**.  
 - 📚 Preparing for advanced **AWS certifications**.  
 - 🔍 Focused on performance, cost-optimization, and cloud security.  
@@ -17,7 +17,7 @@ Passionate about building scalable cloud-native solutions using **AWS Lambda, AP
 ## 🎓 Certifications
 - ✅ AWS Certified Cloud Practitioner  
 - ✅ AWS Certified Solutions Architect – Associate  
-- 🎯 In progress: AWS Certified Developer – Associate  
+- 🎯 *In progress:* AWS Certified Developer – Associate  
 
 ---
 
@@ -30,8 +30,20 @@ Passionate about building scalable cloud-native solutions using **AWS Lambda, AP
 ---
 
 ## 📂 Featured Projects
-- [**AWS Serverless Portfolio**](https://github.com/ManuelCumplido/aws-serverless-portfolio) → End-to-end serverless infrastructure using AWS SAM.  
-- Upcoming: *IoT Device Simulator* and *Serverless CI/CD Demo*.  
+- [**AWS Serverless Portfolio**](https://github.com/ManuelCumplido/aws-serverless-portfolio)  
+  End-to-end serverless infrastructure demonstrating AWS best practices.  
+
+  **Architecture**  
+  - Designed a REST API with API Gateway and Lambda → shows ability to build event-driven services.  
+  - Integrated DynamoDB for persistence → demonstrates experience with NoSQL schema design.  
+  - Implemented Cognito + IAM → highlights skills in authentication and fine-grained access control.  
+
+  **CI/CD**  
+  - Built a GitHub Actions pipeline → reflects knowledge in modern DevOps practices.  
+  - Added unit & integration tests → shows focus on code quality and reliability.  
+  - Automated build & deployment with SAM → demonstrates proficiency in IaC and continuous delivery.
+    
+- Upcoming: *IoT Device Simulator* (MQTT, WebSockets, SQS/SNS).  
 
 ---
 
